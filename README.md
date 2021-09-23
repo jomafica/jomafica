@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jomafica
+- 👀 I’m interested in learn more that i know today
+- 🌱 I’m currently learning Python, JS, Swiftui
+- In the future maybe i learn Rust.
